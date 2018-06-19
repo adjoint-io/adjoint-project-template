@@ -1,0 +1,26 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+
+[packages]
+django = "*"
+django-rest-framework = "*"
+django-extensions = "*"
+django-money = "*"
+django-countries = "*"
+drf-yasg = {extras = ["validation"]}
+django-rest-auth = "*"
+django-cors-headers = "*"
+channels = "*"
+django-silk = "*"
+"psycopg2-binary" = "*"
+drf-writable-nested = "*"
+pytest-cov = "*"
+pytest-xdist = "*"
+uplink-sdk-py = {git = "https://github.com/adjoint-io/uplink-sdk-python"}
+
+[requires]
+python_version = "3.6"
