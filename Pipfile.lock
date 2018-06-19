@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "6a6beb8a283878633fdb6d8e5955a0b6c568b66334402d2c07f0767370a56414"
+            "sha256": "c54eeafd37cb94fa4beb578981bd0858f48b29edb24c81ed03043c8a63b348dc"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -563,7 +563,7 @@
             "version": "==2.10.0"
         },
         "uplink-sdk-py": {
-            "git": "https://644f916ca67fc323f9c43c4ca3b80be7f89b5154@github.com/adjoint-io/uplink-sdk-py@127b2f2e9ea9f50b7cae295cbd655a7622fb9ba5"
+            "git": "https://github.com/adjoint-io/uplink-sdk-python"
         },
         "uritemplate": {
             "hashes": [
